@@ -1,0 +1,1 @@
+{"version":3,"file":"category.Ce67rNr2.js","sources":["../../../../../sheep/api/product/category.js"],"sourcesContent":null,"names":["CategoryApi","getCategoryList","request","url","method","getCategoryListByIds","ids","params"],"mappings":"yCAEK,MAACA,EAAc,CAElBC,gBAAiB,IACRC,EAAQ,CACbC,IAAK,yBACLC,OAAQ,QAIZC,qBAAuBC,GACdJ,EAAQ,CACbC,IAAK,gCACLC,OAAQ,MACRG,OAAQ,CAAED"}
