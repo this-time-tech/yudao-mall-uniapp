@@ -1,0 +1,1 @@
+{"version":3,"file":"article.CQoR_kRZ.js","sources":["../../../../../sheep/api/promotion/article.js"],"sourcesContent":null,"names":["ArticleApi","getArticle","id","title","request","url","method","params"],"mappings":"yCAEA,MAAeA,EAAA,CAEXC,WAAY,CAACC,EAAIC,IACNC,EAAQ,CACXC,IAAK,yBACLC,OAAQ,MACRC,OAAQ,CAAEL,KAAIC"}

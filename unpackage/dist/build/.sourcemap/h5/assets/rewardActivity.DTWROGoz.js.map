@@ -1,0 +1,1 @@
+{"version":3,"file":"rewardActivity.DTWROGoz.js","sources":["../../../../../sheep/api/promotion/rewardActivity.js"],"sourcesContent":null,"names":["RewardActivityApi","getRewardActivity","id","request","url","method","params"],"mappings":"yCAEK,MAACA,EAAoB,CAExBC,kBAAoBC,GACXC,EAAQ,CACbC,IAAK,iCACLC,OAAQ,MACRC,OAAQ,CAAEJ"}

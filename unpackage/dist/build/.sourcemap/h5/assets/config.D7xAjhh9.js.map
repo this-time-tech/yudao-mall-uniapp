@@ -1,0 +1,1 @@
+{"version":3,"file":"config.D7xAjhh9.js","sources":["../../../../../sheep/api/trade/config.js"],"sourcesContent":null,"names":["TradeConfigApi","getTradeConfig","request","url","method","custom","showLoading"],"mappings":"yCAEK,MAACA,EAAiB,CAErBC,eAAgB,IACPC,EAAQ,CACbC,IAAK,oBACLC,OAAQ,MACRC,OAAQ,CACNC,aAAa"}
