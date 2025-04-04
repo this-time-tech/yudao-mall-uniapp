@@ -1,0 +1,1 @@
+<view class="ss-cube-wrap data-v-1ee0eac9" style="{{c}}"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="data-v-1ee0eac9"><view class="cube-img-wrap data-v-1ee0eac9" style="{{item.b + ';' + b}}" bindtap="{{item.c}}"><image class="cube-img data-v-1ee0eac9" src="{{item.a}}" mode="aspectFill"></image></view></view></view>

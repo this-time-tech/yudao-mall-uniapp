@@ -1,0 +1,1 @@
+"use strict";const e=require("../../request/index.js"),r={getDeliveryExpressList:()=>e.request({url:"/trade/delivery/express/list",method:"get"}),getDeliveryPickUpStoreList:r=>e.request({url:"/trade/delivery/pick-up-store/list",method:"GET",params:r}),getDeliveryPickUpStore:r=>e.request({url:"/trade/delivery/pick-up-store/get",method:"GET",params:{id:r}})};exports.DeliveryApi=r;

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js");if(!Array){e.resolveComponent("su-subline")()}Math;const t={__name:"s-line-block",props:{data:{type:Object,default:{}}},setup:t=>(o,n)=>({a:e.p({...t.data})})};wx.createComponent(t);

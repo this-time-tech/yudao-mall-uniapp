@@ -1,0 +1,1 @@
+"use strict";const o=require("../../../common/vendor.js");if(!Array){o.resolveComponent("s-goods-item")()}Math;const t={__name:"goods",props:{goodsData:{type:Object,default:{}}},setup:t=>(e,s)=>({a:o.p({title:t.goodsData.spuName,img:t.goodsData.picUrl,price:t.goodsData.price,skuText:t.goodsData.introduction,priceColor:"#FF3000",titleWidth:400})})};wx.createComponent(t);

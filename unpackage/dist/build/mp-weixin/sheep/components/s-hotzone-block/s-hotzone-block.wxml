@@ -1,0 +1,1 @@
+<view class="hotzone-wrap data-v-e570383d"><image class="data-v-e570383d" src="{{a}}" style="width:100%" mode="widthFix"></image><view wx:for="{{b}}" wx:for-item="item" wx:key="a" class="hotzone-box data-v-e570383d" style="{{item.b}}" catchtap="{{item.c}}"></view></view>

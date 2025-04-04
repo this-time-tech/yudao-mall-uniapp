@@ -1,0 +1,1 @@
+.chat-wrap .page-bg.data-v-674741da{width:100%;position:absolute;top:0;left:0;background-color:var(--ui-BG-Main);z-index:1}.chat-wrap .status.data-v-674741da{position:relative;box-sizing:border-box;z-index:3;height:70rpx;padding:0 30rpx;background:var(--ui-BG-Main-opacity-1);display:flex;align-items:center;font-size:30rpx;font-weight:400;color:var(--ui-BG-Main)}

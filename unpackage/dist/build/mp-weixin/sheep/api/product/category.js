@@ -1,0 +1,1 @@
+"use strict";const t=require("../../request/index.js"),e={getCategoryList:()=>t.request({url:"/product/category/list",method:"GET"}),getCategoryListByIds:e=>t.request({url:"/product/category/list-by-ids",method:"GET",params:{ids:e}})};exports.CategoryApi=e;

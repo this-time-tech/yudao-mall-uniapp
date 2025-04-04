@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../common/vendor.js"),t={__name:"detail-progress",props:{percent:{type:Number,default:0}},setup:t=>(r,p)=>({a:e.t(t.percent),b:t.percent<10?"10%":t.percent+"%"})},r=e._export_sfc(t,[["__scopeId","data-v-58b2423c"]]);wx.createComponent(r);

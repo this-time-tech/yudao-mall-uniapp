@@ -1,0 +1,1 @@
+<view style="{{b}}"><mp-html wx:if="{{a}}" class="richtext" u-i="72286c89-0" bind:__l="__l" u-p="{{a}}"></mp-html></view>
