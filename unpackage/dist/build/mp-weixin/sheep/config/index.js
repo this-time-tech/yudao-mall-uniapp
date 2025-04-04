@@ -1,0 +1,1 @@
+"use strict";let t;exports.baseUrl=void 0,exports.baseUrl="",t="v2.4.1",console.log("[芋道商城 v2.4.1]  http://doc.iocoder.cn");exports.apiPath="/app-api",exports.staticUrl="http://test.yudao.iocoder.cn",exports.tenantId="1",exports.websocketPath="/infra/ws";

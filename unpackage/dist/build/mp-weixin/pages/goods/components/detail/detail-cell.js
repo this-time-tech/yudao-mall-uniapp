@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../common/vendor.js"),t={__name:"detail-cell",props:{label:{type:String,default:""},value:{type:String,default:""}},emits:["click"],setup(t,{emit:c}){const l=c,a=()=>{l("click")};return(c,l)=>({a:e.t(t.label),b:e.t(t.value),c:e.o(a)})}},c=e._export_sfc(t,[["__scopeId","data-v-879372e1"]]);wx.createComponent(c);

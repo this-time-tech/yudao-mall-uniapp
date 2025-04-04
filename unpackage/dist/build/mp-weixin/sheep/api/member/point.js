@@ -1,0 +1,1 @@
+"use strict";const e=require("../../request/index.js"),t={getPointRecordPage:t=>{void 0===t.addStatus&&delete t.addStatus;const o=Object.keys(t).map((e=>encodeURIComponent(e)+"="+t[e])).join("&");return e.request({url:`/member/point/record/page?${o}`,method:"GET"})}};exports.PointApi=t;

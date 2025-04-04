@@ -1,0 +1,1 @@
+"use strict";const e=require("../../request/index.js"),t={getCommentPage:(t,o,r,s)=>e.request({url:"/product/comment/page",method:"GET",params:{spuId:t,pageNo:o,pageSize:r,type:s},custom:{showLoading:!1,showError:!1}})};exports.CommentApi=t;

@@ -1,0 +1,1 @@
+<view class="log-item ss-flex data-v-bbeb067c"><view class="log-icon ss-flex-col ss-col-center ss-m-r-20 data-v-bbeb067c"><text class="{{['cicon-title', 'data-v-bbeb067c', a]}}"/><view wx:if="{{b}}" class="line data-v-bbeb067c"/></view><view class="data-v-bbeb067c"><view class="text data-v-bbeb067c">{{c}}</view><view class="date data-v-bbeb067c">{{d}}</view></view></view>

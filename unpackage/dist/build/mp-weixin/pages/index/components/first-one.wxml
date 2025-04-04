@@ -1,0 +1,1 @@
+<view class="ss-flex-col data-v-13cff1a5"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="goods-box data-v-13cff1a5"><s-goods-column wx:if="{{item.c}}" class="data-v-13cff1a5" bindclick="{{item.a}}" u-i="{{item.b}}" bind:__l="__l" u-p="{{item.c}}"/></view></view>

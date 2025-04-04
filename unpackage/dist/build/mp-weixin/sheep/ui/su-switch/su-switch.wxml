@@ -1,0 +1,1 @@
+<view class="{{['ui-switch', 'data-v-77d22f9f', f, g]}}"><view class="ui-switch-wrapper data-v-77d22f9f" bindtap="{{e}}"><view class="{{['ui-switch-input', 'data-v-77d22f9f', a, b, c, d]}}"></view></view></view>

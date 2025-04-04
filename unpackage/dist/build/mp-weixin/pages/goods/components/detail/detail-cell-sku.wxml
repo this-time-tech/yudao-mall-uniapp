@@ -1,0 +1,1 @@
+<detail-cell wx:if="{{a}}" u-i="6f326a96-0" bind:__l="__l" u-p="{{a}}"/>

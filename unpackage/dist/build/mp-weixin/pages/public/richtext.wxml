@@ -1,0 +1,1 @@
+<s-layout wx:if="{{b}}" u-s="{{['d']}}" class="set-wrap data-v-b0f03430" u-i="b0f03430-0" bind:__l="__l" u-p="{{b}}"><view class="ss-p-30 data-v-b0f03430"><mp-html wx:if="{{a}}" class="richtext data-v-b0f03430" u-i="b0f03430-1,b0f03430-0" bind:__l="__l" u-p="{{a}}"/></view></s-layout>

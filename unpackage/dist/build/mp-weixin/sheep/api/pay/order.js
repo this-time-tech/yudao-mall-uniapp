@@ -1,0 +1,1 @@
+"use strict";const e=require("../../request/index.js"),r={getOrder:(r,t)=>e.request({url:"/pay/order/get",method:"GET",params:{id:r,sync:t}}),submitOrder:r=>e.request({url:"/pay/order/submit",method:"POST",data:r})};exports.PayOrderApi=r;

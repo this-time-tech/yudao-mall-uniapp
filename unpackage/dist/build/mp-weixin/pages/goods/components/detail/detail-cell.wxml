@@ -1,0 +1,1 @@
+<view class="detail-cell-wrap ss-flex ss-col-center ss-row-between data-v-879372e1" bindtap="{{c}}"><view class="label-text data-v-879372e1">{{a}}</view><view class="cell-content ss-line-1 ss-flex-1 data-v-879372e1">{{b}}</view><button class="ss-reset-button data-v-879372e1"><text class="_icon-forward right-forwrad-icon data-v-879372e1"></text></button></view>

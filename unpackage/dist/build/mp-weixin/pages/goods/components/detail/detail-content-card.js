@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../common/vendor.js"),t=require("../../../../sheep/index.js");if(!Array){e.resolveComponent("mp-html")()}Math;const n={__name:"detail-content-card",props:{content:{type:String,default:""}},setup:n=>(t.sheep.$platform.device,(t,o)=>({a:e.p({content:n.content})}))},o=e._export_sfc(n,[["__scopeId","data-v-05c8b18d"]]);wx.createComponent(o);

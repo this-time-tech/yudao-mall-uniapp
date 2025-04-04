@@ -1,0 +1,1 @@
+"use strict";const s=require("../../request/index.js"),e={sendKefuMessage:e=>s.request({url:"/promotion/kefu-message/send",method:"POST",data:e,custom:{auth:!0,showLoading:!0,loadingMsg:"发送中",showSuccess:!0,successMsg:"发送成功"}}),getKefuMessageList:e=>s.request({url:"/promotion/kefu-message/list",method:"GET",params:e,custom:{auth:!0,showLoading:!1}})};exports.KeFuApi=e;
